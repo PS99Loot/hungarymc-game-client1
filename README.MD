@@ -43,7 +43,7 @@ All components that are in [Storybook](https://minimap.mcraft.fun/storybook/) ar
 ### Recommended Settings
 
 - Controls -> **Touch Controls Type** -> **Joystick**
-- Controls -> **Auto Full Screen** -> **On** - To avoid ctrl+w issue
+- Controls -> **Auto Full Screen** -> **On** - To avoid ctrl+w issue asas
 - Interface -> **Enable Minimap** -> **Always** - To enable useful minimap (why not?)
 - Controls -> **Raw Input** -> **On** - This will make the controls more precise (UPD: already enabled by default)
 - Interface -> **Chat Select** -> **On** - To select chat messages (UPD: already enabled by default)
